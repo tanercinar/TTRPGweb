@@ -52,7 +52,7 @@ Bu uygulama, TTRPG oyunları sırasında kağıt-kalem ile tutulan karakter kağ
 
 Uygulamanın canlı sunucuda çalışan versiyonunu test etmek için aşağıdaki bağlantıyı ziyaret edebilirsiniz. Siteye girerek yeni bir kullanıcı oluşturabilir ve tüm özellikleri deneyebilirsiniz.
 
-  **[Proje Bağlantısı](http://95.130.171.20/~st22360859042/)**
+   **[Proje Bağlantısı](http://95.130.171.20/~st22360859042/)**
 
 ---
 
@@ -60,4 +60,4 @@ Uygulamanın canlı sunucuda çalışan versiyonunu test etmek için aşağıdak
 
 Uygulamanın nasıl çalıştığını, kullanıcı kaydından başlayarak karakter ve envanter yönetimine kadar tüm temel işlevlerin gösterildiği kısa tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-▶️ **[Youtube Video Bağlantısı](https://www.youtube.com/watch?v=5G4OJLTmIOg)**
+   **[Youtube Video Bağlantısı](https://www.youtube.com/watch?v=5G4OJLTmIOg)**
