@@ -60,4 +60,4 @@ Uygulamanın canlı sunucuda çalışan versiyonunu test etmek için aşağıdak
 
 Uygulamanın nasıl çalıştığını, kullanıcı kaydından başlayarak karakter ve envanter yönetimine kadar tüm temel işlevlerin gösterildiği kısa tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-▶️ **[Youtube Video Bağlantısı]**
+▶️ **[Youtube Video Bağlantısı](https://www.youtube.com/watch?v=5G4OJLTmIOg)**
